@@ -23,3 +23,34 @@
 .elfinder .elfinder-navbar .elfinder-navbar-dir.ui-state-active:hover {
   /* */
 }
+
+/* Icons */
+/* Arrow */
+.elfinder .elfinder-navbar .elfinder-navbar-arrow {
+  /* */
+}
+
+/* Expanded directory arrow */
+.elfinder .elfinder-navbar-expanded .elfinder-navbar-arrow {
+  /* */
+}
+
+/* All icons (directories) */
+.elfinder .elfinder-navbar .elfinder-navbar-icon {
+  /* */
+}
+
+/* Root/volume */
+.elfinder .elfinder-navbar-root > .elfinder-navbar-icon {
+  /* */
+}
+
+/* Root/volume expanded */
+.elfinder .elfinder-navbar-root.elfinder-navbar-expanded  > .elfinder-navbar-icon {
+  /* */
+}
+
+/* Resizable handle */
+.elfinder .elfinder-navbar .ui-resizable-handle.ui-resizable-e {
+  /* */
+}
