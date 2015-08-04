@@ -30,5 +30,6 @@ directory after the files in `/js/` have loaded:
     <!-- after all of the files in the /js/ directory are loaded -->
     <script type="text/javascript" src="themes/mytheme/js/yourscript.js"></script>
     ```
+
 # Documentation
 Check the source code and READMEs.
