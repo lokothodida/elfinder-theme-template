@@ -1,10 +1,10 @@
 # elFinder Theme Template
-A sketch and boilerplate of the CSS styles used to skin the [elFinder](https://github.com/Studio-42/elFinder) File Browser.
+An immediately configurable template for the [elFinder File Browser](https://github.com/Studio-42/elFinder).
 
 # Aims
-* To explain how to make skins for elFinder
-* To provide a base from which to quickly create skins
-* Overcome skinning compatibility issues between elFinder versions (namely 2.0 to 2.1)
+* To explain how to produce structured skins for elFinder
+* To provide a base from which to quickly produce said skins
+* Overcome skinning compatibility issues between elFinder versions (namely 2.0 to 2.x)
 
 # Usage
 All of elFinder's styling is done through CSS. There is an elaborate
@@ -14,8 +14,10 @@ template.
 
 1. In the your elFinder installation, if a `themes` folder doesn't exist,
 create one.
-2. Create a folder in `themes` for your theme
-3. Copy the contents of this repository into that new folder.
+2. Create a folder in `themes` for your theme (e.g. `themes/[your-theme-name]`) and copy
+the contents of this repository into it (or alternatively, clone this repository to the
+`themes` directory and rename the folder to your liking).
+3. Edit the template to fit your needs.
 4. In your elFinder's html file (e.g. `elfinder.html`), load the
 `themes/[your-theme-name]/css/theme.css` file after elFinder's base theme has loaded:
 
