@@ -31,3 +31,16 @@ This is to minimize the need for using `!important` flags to override the existi
       background: none;
       border: none;
     ```
+* If you want to change the icons in a particular container, it is best to reset the icon's style from a general selector, then style each individual icon separately. For example:
+
+    ```css
+    /* All toolbar icons */
+    .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon {
+      /* reset the style and set the common properties */
+    }
+
+    /* mkfile toolbar icon */
+    .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-mkfile {
+      /* style specific to mkfile button (e.g. background-position) */
+    }
+    ```
