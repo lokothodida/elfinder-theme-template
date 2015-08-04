@@ -1,0 +1,49 @@
+/* toolbar.css */
+/* Main toolbar wrapper */
+.elfinder .elfinder-toolbar {
+  /* */
+}
+
+/* Buttonset wrapper */
+.elfinder .elfinder-toolbar .elfinder-buttonset {
+  /* */
+}
+
+/* Buttons */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button {
+  /* */
+}
+
+/* Hovered buttons */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button:hover {
+  /* */
+}
+
+/* Disabled buttons */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button.ui-state-disabled {
+  /* */
+}
+
+/* Buttonset separator */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-toolbar-button-separator {
+  /* */
+}
+
+/* Searchbar */
+.elfinder-toolbar .elfinder-button-search {
+  /* */
+}
+
+/* Searchbar icons (search and close) */
+.elfinder-toolbar .elfinder-button-search .ui-icon {
+  /* */
+}
+
+.elfinder-toolbar .elfinder-button-search .ui-icon-search {
+  /* */
+}
+
+
+.elfinder-toolbar .elfinder-button-search .ui-icon-close {
+  /* */
+}
