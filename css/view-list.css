@@ -40,6 +40,11 @@
   /* */
 }
 
+/* Filename */
+.elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file .elfinder-cwd-filename {
+  /* */
+}
+
 /* Hovered file */
 
 .elfinder .elfinder-cwd-wrapper-list .elfinder-cwd-file:hover,
