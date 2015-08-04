@@ -20,3 +20,14 @@ Note that many of the styles have a large degree of selectivity. E.g:
 ```
 
 This is to minimize the need for using `!important` flags to override the existing styles (particularly with respect to jQuery UI's CSS).
+
+## Tips
+* Some styles have their `text-indent` property set to `-9999px` to keep the text out of view. If after styling you can't see the text (and you need to), change the text-indent property
+* If you need to reset a style, the following normally suffices:
+
+    ```css
+      padding: 0;
+      margin: 0;
+      background: none;
+      border: none;
+    ```
