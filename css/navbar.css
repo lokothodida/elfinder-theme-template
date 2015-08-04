@@ -1,0 +1,25 @@
+/* navbar.css */
+/* Main wrapper for navbar */
+.elfinder .elfinder-navbar {
+  /* */
+}
+
+/* Directories */
+.elfinder .elfinder-navbar .elfinder-navbar-dir {
+  /* */
+}
+
+/* Hovered directory  */
+.elfinder .elfinder-navbar .elfinder-navbar-dir:hover {
+  /* */
+}
+
+/* Current/active directory (cwd) */
+.elfinder .elfinder-navbar .elfinder-navbar-dir.ui-state-active {
+  /* */
+}
+
+/* Howvered cwd */
+.elfinder .elfinder-navbar .elfinder-navbar-dir.ui-state-active:hover {
+  /* */
+}
