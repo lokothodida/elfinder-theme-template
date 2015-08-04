@@ -23,14 +23,14 @@ the contents of this repository into it (or alternatively, clone this repository
 
     ```html
     <!-- after all of the files in the /css/ directory are loaded -->
-    <link rel="stylesheet" type="text/css" href="themes/mytheme/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="themes/[your-theme-name]/css/theme.css">
     ```
-5. *(Optional)* : load any extra Javascript from the `/themes/[your-theme-name]/js/`
+5. *(Optional)*  Load any extra Javascript from the `/themes/[your-theme-name]/js/`
 directory after the files in `/js/` have loaded:
 
     ```html
     <!-- after all of the files in the /js/ directory are loaded -->
-    <script type="text/javascript" src="themes/mytheme/js/yourscript.js"></script>
+    <script type="text/javascript" src="themes/[your-theme-name]/js/yourscript.js"></script>
     ```
 
 # Documentation
