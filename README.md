@@ -1,5 +1,5 @@
 # elFinder Theme Template
-An immediately configurable template for the [elFinder File Browser](https://github.com/Studio-42/elFinder).
+An immediately "editable" template for the [elFinder File Browser](https://github.com/Studio-42/elFinder).
 
 # Aims
 * To explain how to produce structured skins for elFinder
