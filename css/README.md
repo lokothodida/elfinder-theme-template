@@ -12,3 +12,11 @@ The `theme.css` file is the focal point for loading the styles. These could all 
 * **contextmenu.css** : context menu shown when right-clicking on in the list/thumbnail view or navbar
 * **dialog.css** : information dialogs/modal windows
 * **statusbar.css** : footer; contains information about directory and currently selected files
+
+Note that many of the styles have a large degree of selectivity. E.g:
+
+```css
+.elfinder .elfinder-navbar .elfinder-navbar-dir.ui-state-active:hover { /* */ }
+```
+
+This is to minimize the need for using `!important` flags to override the existing styles (particularly with respect to jQuery UI's CSS).
