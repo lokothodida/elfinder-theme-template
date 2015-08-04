@@ -11,16 +11,13 @@
 
 /* Toolbar (top panel) */
 @import url('toolbar.css');
-@import url('toolbar-icons.css');
 
 /* Navbar (left panel) */
 @import url('navbar.css');
-@import url('navbar-icons.css');
 
 /* Views (List and Thumbnail) */
 @import url('view-list.css');
 @import url('view-thumbnail.css');
-@import url('view-icons.css');
 
 /* Context menu */
 @import url('contextmenu.css');
