@@ -1,9 +1,8 @@
 /* icons.css */
 
 /* These are shown thoughought the UI, not just in the list/thumbnail view */
-/* General icon settings */
+/* General icon settings (in main view panel) */
 .elfinder-cwd-icon {
-  background: none; /* resets background styling from base elFinder theme */
   /* */
 }
 
