@@ -29,6 +29,11 @@
   /* */
 }
 
+/* Button icons */
+.elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon {
+  /* */
+}
+
 /* Searchbar */
 .elfinder-toolbar .elfinder-button-search {
   /* */
@@ -47,3 +52,148 @@
 .elfinder-toolbar .elfinder-button-search .ui-icon-close {
   /* */
 }
+
+/* Commands */
+  /* Back */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-back {
+    /* */
+  }
+
+  /* Forward */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-forward {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-reload {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-home {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-up {
+    /* */
+  }
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-mkdir {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-mkfile {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-upload {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-open {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-download {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-getfile {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-info {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-quicklook {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-copy {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-cut {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-paste {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-view {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-view-list {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-help {
+    /* */
+  }
+
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-duplicate {
+
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-rm {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-edit {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-rename {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-archive {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-archive {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-resize {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-extract {
+    /* */
+  }
+
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-icon-sort {
+    /* */
+  }
+
+  /* Menus (e.g. for sorting) */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-menu {
+    /* */
+  }
+
+  /* Menu items */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-menu-item {
+    /* */
+  }
+
+  /* Selected items */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-menu-item-selected {
+    /* */
+  }
+
+  /* Hovered items */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-menu-item.ui-state-hover {
+    /* */
+  }
+
+  /* Menu item sorting ascending icon */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-menu-item-selected.elfinder-menu-item-sort-asc .elfinder-menu-item-sort-dir {
+    /* */
+  }
+
+  /* Menu item sorting descending icon */
+  .elfinder .elfinder-toolbar .elfinder-buttonset .elfinder-button-menu-item-selected.elfinder-menu-item-sort-desc .elfinder-menu-item-sort-dir {
+    /* */
+  }
