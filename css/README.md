@@ -3,6 +3,7 @@ All CSS for your theme will be located here.
 
 The `theme.css` file is the focal point for loading the styles. These could all have been in one file, but have been split up for the sake of more easily structuring and maintaining the codebase.
 
+* **reset.css** : resets background and border of all elfinder elements so that you can skin from scratch without manually positioning the main elements yourself
 * **main.css** : main UI elements (wrapper for the main elfinder div, global styles, etc..)
 * **icons.css** : icons across the UI (e.g. file associations)
 * **toolbar.css** : toolbar at the top of the elfinder container. Contains toolbar buttons and searchbar
@@ -22,12 +23,10 @@ Note that many of the styles have a large degree of selectivity. E.g:
 This is to minimize the need for using `!important` flags to override the existing styles (particularly with respect to jQuery UI's CSS).
 
 ## Tips
-* Some styles have their `text-indent` property set to `-9999px` to keep the text out of view. If after styling you can't see the text (and you need to), change the `text-indent` property
-* If you need to reset a style, the following normally suffices:
+* Use the `reset.css` style to reset the styles that you need to. Comment out selectors that you wish to remain untouched.
+* If you need to reset a style outside of `reset.css`, the following normally suffices:
 
     ```css
-      padding: 0;
-      margin: 0;
       background: none;
       border: none;
     ```
@@ -44,3 +43,4 @@ This is to minimize the need for using `!important` flags to override the existi
       /* styles specific to the mkfile button (e.g. background-position) */
     }
     ```
+* Some styles have their `text-indent` property set to `-9999px` to keep the text out of view. If after styling you can't see the text (and you need to), change the `text-indent` property
