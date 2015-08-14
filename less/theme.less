@@ -1,17 +1,21 @@
+// Mixin for general styles
 .elfinder-mixin() {
-  // General styles
+  // ...
 }
 
+// Main elfinder container
 .elfinder {
-  .elfinder-mixin;
+  .elfinder-mixin();
   @import url('toolbar.less');
   @import url('navbar.less');
   @import url('view-icons.less');
   @import url('view-list.less');
   @import url('statusbar.less');
+  @import url('dialog.less');
 }
 
+// Context menu (sits outside container)
 .elfinder-contextmenu {
-  .elfinder-mixin;
+  .elfinder-mixin();
   @import url('contextmenu.less');
 }
